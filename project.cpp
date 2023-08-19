@@ -1,6 +1,5 @@
-// i190721
-// SUMEN JAMIL
-// FINAL PROJECT
+//Saman Jamil
+//Game Of Life
 
 #include <iostream>
 #include <fstream>
